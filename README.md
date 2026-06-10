@@ -129,7 +129,7 @@ The Hazard Detection Unit detects load-use hazards and control hazards, generati
 
 ## Test Program
 
-The processor was verified using a program that finds the maximum value in an array.
+The processor was verified using a program (given in report) that finds the maximum value in an array.
 
 ### Result
 
@@ -140,7 +140,7 @@ The processor was verified using a program that finds the maximum value in an ar
 
 ## Project Report
 
-The detailed project report is available in the `report` folder.
+The detailed project report is available in the report folder.
 
 
 
